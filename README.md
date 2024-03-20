@@ -4,6 +4,16 @@
 
  I'm a Software developer who currently works as a full stack web developer at [Excellent Bridge](https://excellentbridge.com/). I'm passionate about sharing knowledge, documentation, web engineering,  and others. 
 
+ **Here's a quick summary about me**:
+
+- 😊 Pronouns: He/him
+- 💡 Fun fact: I recently studied at AltSchool Africa  [School of Software Engineering](https://altschoolafrica.com/schools/engineering) through DevCareer Technical Program [DTCP](https://devcareer.io/government/dctp) Cohort one.
+- 🌱 Technical Skils: JavaScript,  Nodejs, Reactjs, NextJS, Postgresql and mysql.
+- 🍡 Soft Skills: Problem solving, analytical skill, communication skill and time management
+- 😊 I’m looking for help with open source projects, hackathons, internships, entry-level and mid-level opportunities.
+- 💼 Job interests: Software Engineer, Front Engineer, or Backend engineer (Intern, Junior level or mid level role).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1B1utc0EICzszw_BFQ0dYRvDgQ3plgXmK/view?usp=sharing) and contact me by emailing chileomereji@gmail.com.
+
 
 
 <!--
