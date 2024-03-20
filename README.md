@@ -8,7 +8,7 @@
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I recently studied at AltSchool Africa  [School of Software Engineering](https://altschoolafrica.com/schools/engineering) through DevCareer Technical Program [DTCP](https://devcareer.io/government/dctp) Cohort one.
-- 🌱 Technical Skils: JavaScript,  Nodejs, Reactjs, NextJS, Postgresql and mysql.
+- 🌱 Technical Skills: JavaScript,  Nodejs, Reactjs, NextJS, Postgresql and mysql.
 - 🍡 Soft Skills: Problem solving, analytical skill, communication skill and time management
 - 😊 I’m looking for help with open source projects, hackathons, internships, entry-level and mid-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Backend engineer (Intern, Junior level or mid level role).
