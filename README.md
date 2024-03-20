@@ -2,6 +2,9 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-chile-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chileomereji/)](https://www.linkedin.com/in/chileomereji/) [![Twitter Badge](https://img.shields.io/badge/-@Chile89672512?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chile89672512)](https://twitter.com/Chile89672512)
 
+ I'm a Software developer who currently works as a full stack web developer at [Excellent Bridge](https://excellentbridge.com/). I'm passionate about sharing knowledge, documentation, web engineering,  and others. 
+
+
 
 <!--
 **chile4coding/chile4coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
