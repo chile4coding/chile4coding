@@ -1,6 +1,6 @@
 # Hi there, welcome👋
 
- [![Linkedin Badge](https://img.shields.io/badge/-chile-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chileomereji/)](https://www.linkedin.com/in/chileomereji/) [![Twitter Badge](https://img.shields.io/badge/-@chile?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chile89672512)](https://twitter.com/Chile89672512)
+ [![Linkedin Badge](https://img.shields.io/badge/-chile-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chileomereji/)](https://www.linkedin.com/in/chileomereji/) [![Twitter Badge](https://img.shields.io/badge/-@Chile89672512?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chile89672512)](https://twitter.com/Chile89672512)
 
 
 <!--
