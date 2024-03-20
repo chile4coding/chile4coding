@@ -12,8 +12,11 @@
 - 🍡 Soft Skills: Problem solving, analytical skill, communication skill and time management
 - 😊 I’m looking for help with open source projects, hackathons, internships, entry-level and mid-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Backend engineer (Intern, Junior level or mid level role).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1B1utc0EICzszw_BFQ0dYRvDgQ3plgXmK/view?usp=sharing) and contact me by emailing chileomereji@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1B1utc0EICzszw_BFQ0dYRvDgQ3plgXmK/view?usp=sharing) and contact me by emailing chileomereji@gmail.com
 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chile4coding&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chile4coding&langs_count=8&layout=compact&hide_border=true" alt="Chile's GitHub stats" /> |
+| ------------- | ------------- |
 
 
 <!--
