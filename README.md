@@ -1,6 +1,7 @@
 # Hi there, welcome👋
 
-[![X Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/450px-X_logo_2023_original.svg.png&link=https://twitter.com/Chile89672512)](https://twitter.com/Chile89672512)
+[![X Badge](![X_logo_2023_original svg](https://github.com/chile4coding/chile4coding/assets/93575252/0697452b-67eb-4e36-acf2-587be7977cb9)
+)](https://twitter.com/Chile89672512)
 
 <!--
 **chile4coding/chile4coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
