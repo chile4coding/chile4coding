@@ -1,7 +1,7 @@
 # Hi there, welcome👋
 
-[![X Badge](![X_logo_2023_original svg](https://github.com/chile4coding/chile4coding/assets/93575252/0697452b-67eb-4e36-acf2-587be7977cb9)
-)](https://twitter.com/Chile89672512)
+ [![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chileomereji/)](https://www.linkedin.com/in/chileomereji/) [![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chile89672512)](https://twitter.com/Chile89672512)
+
 
 <!--
 **chile4coding/chile4coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
