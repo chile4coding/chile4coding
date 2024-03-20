@@ -7,7 +7,7 @@
  **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I recently studied at AltSchool Africa  [School of Software Engineering](https://altschoolafrica.com/schools/engineering) through DevCareer Technical Program [DTCP](https://devcareer.io/government/dctp) Cohort one.
+- 💡 Fun fact: I recently studied at AltSchool Africa  [School of Software Engineering](https://engineering.altschoolafrica.com/) through DevCareer Technical Program [DTCP](https://devcareer.io/government/dctp) Cohort one.
 - 🌱 Technical Skills: JavaScript,  Nodejs, Reactjs, Nextjs, Postgresql and mysql.
 - 🍡 Soft Skills: Problem solving, analytical skill, communication skill and time management
 - 😊 I’m looking for help with open source projects, hackathons, internships, entry-level and mid-level opportunities.
